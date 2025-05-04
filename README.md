@@ -17,6 +17,12 @@ You’ll find solutions for both **Summer 2024** and **Winter 2024** question pa
 
 ---
 
+## How to use this?
+
+- Just [Click here](6th%20Semester%20ESE%201e8882ff2d1f80d698cbf31dd373cef6.md)
+
+---
+
 ## What You’ll Find Here
 
 - Step-by-step, exam-style solutions for previous year papers
@@ -57,4 +63,4 @@ Remember: understanding beats memorizing, and you’re not alone in this-let’s
 
 ---
 
-*(If this repo helped you, consider sharing it with friends or classmates who might need it too.)*
+_(If this repo helped you, consider sharing it with friends or classmates who might need it too.)_
